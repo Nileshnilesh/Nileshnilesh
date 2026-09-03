@@ -24,7 +24,7 @@
 
 <hr>
 
-<h3>Skill</h3><div><img align="right" height="300" src="<img width="1536" height="1024" alt="github_image" src="C:\Users\USER\OneDrive\Pictures\github_image.png" />
+<h3>Skill</h3><div><img align="right" height="300" src="<img width="1536" height="1024" alt="github_image" src="https://github.com/nileshnilesh/nileshnilesh/blob/main/github_image.png?raw=true" />
 "  /></div>
 <h5>Programming Language</h5>
 
