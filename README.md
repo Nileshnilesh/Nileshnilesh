@@ -24,7 +24,8 @@
 
 <hr>
 
-<h3>Skill</h3><div><img align="right" height="300" src="https://img.freepik.com/premium-photo/anime-boy-working-computer_1282444-264463.jpg"  /></div>
+<h3>Skill</h3><div><img align="right" height="300" src="<img width="1536" height="1024" alt="github_image" src="https://github.com/user-attachments/assets/799d2016-d500-4036-8174-a4a115f5558a" />
+"  /></div>
 <h5>Programming Language</h5>
 
 <div align="left">
