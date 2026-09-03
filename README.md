@@ -27,7 +27,7 @@
 <h3>Skill</h3>
 
 <div>
-  <img align="right" height="300" src="https://github.com/nileshnilesh/nileshnilesh/blob/main/github_image.png?raw=true" alt="github image">
+  <img align="right" height="300" src="https" alt="github image">
 </div>
 <h5>Programming Language</h5>
 
